@@ -99,8 +99,6 @@ library(dplyr)
 
 Because the market data is downloaded dynamically, rerunning the source analysis may produce results that differ from the rendered report.
 
-> The generated signals are educational analytical outputs and should not be treated as investment recommendations.
-
 ---
 
 ## 3. CPI and Nasdaq Shiny Dashboard
@@ -191,18 +189,6 @@ install.packages(c(
 ```
 
 The two HTML reports are already rendered and can be viewed without installing R. R and the listed packages are required only to rerun the analyses or launch the Shiny application.
-
-## Skills and Methods Demonstrated
-
-- exploratory data analysis,
-- data cleaning and transformation,
-- economic and financial interpretation,
-- time-series visualization,
-- technical indicators and trading signals,
-- reactive programming in Shiny,
-- interactive data filtering,
-- descriptive statistics and hypothesis testing,
-- reproducible analytical reporting.
 
 ## License
 
